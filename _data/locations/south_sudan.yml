@@ -83,19 +83,19 @@ users:
     organizations: ""
 
   - rank: 11
-    name: "Arop Mathew Daniel"
-    login: "Aropmathewdaniel"
-    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
-    contributions: 0
-    company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 12
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 12
+    name: "Arop Mathew Daniel"
+    login: "Aropmathewdaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
+    contributions: 0
+    company: "GAN MEDIA & TECH COMPANY LIMITED"
     organizations: ""
 
   - rank: 13
@@ -123,19 +123,19 @@ users:
     organizations: ""
 
   - rank: 16
-    name: "Lobur Elikana "
-    login: "Loburelikana2"
-    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
-    contributions: 0
-    company: "Biometrics department "
-    organizations: ""
-
-  - rank: 17
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 17
+    name: "Lobur Elikana "
+    login: "Loburelikana2"
+    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
+    contributions: 0
+    company: "Biometrics department "
     organizations: ""
 
   - rank: 18
@@ -236,19 +236,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 11
-    name: "Arop Mathew Daniel"
-    login: "Aropmathewdaniel"
-    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
-    contributions: 0
-    company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 12
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 12
+    name: "Arop Mathew Daniel"
+    login: "Aropmathewdaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
+    contributions: 0
+    company: "GAN MEDIA & TECH COMPANY LIMITED"
     organizations: ""
 
   - rank: 13
@@ -276,19 +276,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 16
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 17
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 17
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 18
@@ -390,19 +390,19 @@ private_users:
     organizations: ""
 
   - rank: 11
-    name: "Arop Mathew Daniel"
-    login: "Aropmathewdaniel"
-    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
-    contributions: 0
-    company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 12
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 12
+    name: "Arop Mathew Daniel"
+    login: "Aropmathewdaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
+    contributions: 0
+    company: "GAN MEDIA & TECH COMPANY LIMITED"
     organizations: ""
 
   - rank: 13
@@ -430,19 +430,19 @@ private_users:
     organizations: ""
 
   - rank: 16
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 17
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 17
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 18
@@ -478,6 +478,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-04-22 23:23:48.200572258 +0000 UTC m=+1.979563665
+generated: 2024-04-29 22:53:09.135326924 +0000 UTC m=+2.105491037
 min_followers_required: 0
 total_user_count: 19
