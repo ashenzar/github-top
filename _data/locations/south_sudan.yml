@@ -14,7 +14,7 @@ users:
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 17
+    contributions: 25
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
@@ -99,19 +99,19 @@ users:
     organizations: ""
 
   - rank: 13
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 15
@@ -175,24 +175,24 @@ users_public_contributions:
     name: "Maged Faiz"
     login: "Maiz27"
     avatarUrl: https://avatars.githubusercontent.com/u/91534137?u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4
-    contributions: 396
+    contributions: 394
     company: "Nilotik General Trading Co. Ltd"
     organizations: ""
 
   - rank: 2
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 31
+    company: "United Nations Mission in South Sudan"
+    organizations: ""
+
+  - rank: 3
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 29
     company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 3
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 23
-    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 4
@@ -228,11 +228,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 8
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
-    company: ""
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 9
@@ -268,19 +268,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 13
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 15
@@ -316,11 +316,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 19
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
-    company: "Codemate Tech "
+    company: ""
     organizations: ""
 
   - rank: 20
@@ -345,24 +345,24 @@ private_users:
     name: "Maged Faiz"
     login: "Maiz27"
     avatarUrl: https://avatars.githubusercontent.com/u/91534137?u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4
-    contributions: 1078
+    contributions: 1051
     company: "Nilotik General Trading Co. Ltd"
     organizations: ""
 
   - rank: 2
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 31
+    company: "United Nations Mission in South Sudan"
+    organizations: ""
+
+  - rank: 3
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 29
     company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 3
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 23
-    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 4
@@ -398,11 +398,11 @@ private_users:
     organizations: ""
 
   - rank: 8
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
-    company: ""
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 9
@@ -438,19 +438,19 @@ private_users:
     organizations: ""
 
   - rank: 13
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 15
@@ -486,11 +486,11 @@ private_users:
     organizations: ""
 
   - rank: 19
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
-    company: "Codemate Tech "
+    company: ""
     organizations: ""
 
   - rank: 20
@@ -526,6 +526,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-08-26 23:14:08.569029039 +0000 UTC m=+2.527920799
+generated: 2024-09-02 23:06:20.549611513 +0000 UTC m=+2.418326096
 min_followers_required: 0
 total_user_count: 21
