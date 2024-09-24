@@ -6,7 +6,7 @@ users:
     name: "Maged Faiz"
     login: "Maiz27"
     avatarUrl: https://avatars.githubusercontent.com/u/91534137?u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4
-    contributions: 371
+    contributions: 366
     company: "Nilotik General Trading Co. Ltd"
     organizations: ""
 
@@ -14,7 +14,7 @@ users:
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 25
+    contributions: 51
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
@@ -131,19 +131,19 @@ users:
     organizations: ""
 
   - rank: 17
-    name: "Lobur Elikana "
-    login: "Loburelikana2"
-    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
-    contributions: 0
-    company: "Biometrics department "
-    organizations: ""
-
-  - rank: 18
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 18
+    name: "Lobur Elikana "
+    login: "Loburelikana2"
+    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
+    contributions: 0
+    company: "Biometrics department "
     organizations: ""
 
   - rank: 19
@@ -175,7 +175,7 @@ users_public_contributions:
     name: "Maged Faiz"
     login: "Maiz27"
     avatarUrl: https://avatars.githubusercontent.com/u/91534137?u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4
-    contributions: 437
+    contributions: 432
     company: "Nilotik General Trading Co. Ltd"
     organizations: ""
 
@@ -183,7 +183,7 @@ users_public_contributions:
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 32
+    contributions: 58
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
@@ -300,19 +300,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 17
-    name: "Lobur Elikana "
-    login: "Loburelikana2"
-    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
-    contributions: 0
-    company: "Biometrics department "
-    organizations: ""
-
-  - rank: 18
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 18
+    name: "Lobur Elikana "
+    login: "Loburelikana2"
+    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
+    contributions: 0
+    company: "Biometrics department "
     organizations: ""
 
   - rank: 19
@@ -345,7 +345,7 @@ private_users:
     name: "Maged Faiz"
     login: "Maiz27"
     avatarUrl: https://avatars.githubusercontent.com/u/91534137?u=8b07bd994d9afb4e2300e116b96dbd46442b16cd&v=4
-    contributions: 1052
+    contributions: 1046
     company: "Nilotik General Trading Co. Ltd"
     organizations: ""
 
@@ -353,7 +353,7 @@ private_users:
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 32
+    contributions: 58
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
@@ -470,19 +470,19 @@ private_users:
     organizations: ""
 
   - rank: 17
-    name: "Lobur Elikana "
-    login: "Loburelikana2"
-    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
-    contributions: 0
-    company: "Biometrics department "
-    organizations: ""
-
-  - rank: 18
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 18
+    name: "Lobur Elikana "
+    login: "Loburelikana2"
+    avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
+    contributions: 0
+    company: "Biometrics department "
     organizations: ""
 
   - rank: 19
@@ -526,6 +526,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-09-16 23:29:50.828394317 +0000 UTC m=+2.802198792
+generated: 2024-09-23 23:34:58.777434377 +0000 UTC m=+2.475760163
 min_followers_required: 0
 total_user_count: 21
