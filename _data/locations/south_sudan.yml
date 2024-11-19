@@ -59,19 +59,19 @@ users:
     organizations: ""
 
   - rank: 8
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 9
     name: "Marko Makuach Garang Wol "
     login: "GarangWol"
     avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 10
@@ -83,22 +83,6 @@ users:
     organizations: ""
 
   - rank: 11
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 12
-    name: "Arop Mathew Daniel"
-    login: "Aropmathewdaniel"
-    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
-    contributions: 0
-    company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 13
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -106,12 +90,28 @@ users:
     company: "Kampala university "
     organizations: ""
 
-  - rank: 14
+  - rank: 12
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 13
+    name: "Arop Mathew Daniel"
+    login: "Aropmathewdaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
+    contributions: 0
+    company: "GAN MEDIA & TECH COMPANY LIMITED"
+    organizations: ""
+
+  - rank: 14
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -204,11 +204,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -252,6 +252,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 12
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 13
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
@@ -259,20 +267,12 @@ users_public_contributions:
     company: "GAN MEDIA & TECH COMPANY LIMITED"
     organizations: ""
 
-  - rank: 13
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
   - rank: 14
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -366,11 +366,11 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -414,6 +414,14 @@ private_users:
     organizations: ""
 
   - rank: 12
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 13
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
@@ -421,20 +429,12 @@ private_users:
     company: "GAN MEDIA & TECH COMPANY LIMITED"
     organizations: ""
 
-  - rank: 13
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
   - rank: 14
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -502,6 +502,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-11-11 23:46:19.025052217 +0000 UTC m=+1.794355604
+generated: 2024-11-18 23:22:50.229890296 +0000 UTC m=+2.126266789
 min_followers_required: 1
 total_user_count: 20
