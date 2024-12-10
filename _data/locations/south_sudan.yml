@@ -22,7 +22,7 @@ users:
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 2
+    contributions: 3
     company: "@konetahub "
     organizations: ""
 
@@ -59,19 +59,19 @@ users:
     organizations: ""
 
   - rank: 8
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 9
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
     company: "Gogirlict"
+    organizations: ""
+
+  - rank: 9
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 10
@@ -83,19 +83,19 @@ users:
     organizations: ""
 
   - rank: 11
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
-    contributions: 0
-    company: "U,D,S revolutionary"
-    organizations: ""
-
-  - rank: 12
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 12
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 13
@@ -183,7 +183,7 @@ users_public_contributions:
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 6
+    contributions: 7
     company: "@konetahub "
     organizations: ""
 
@@ -204,11 +204,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -252,11 +252,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 12
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 13
@@ -345,7 +345,7 @@ private_users:
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 6
+    contributions: 7
     company: "@konetahub "
     organizations: ""
 
@@ -366,11 +366,11 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -414,11 +414,11 @@ private_users:
     organizations: ""
 
   - rank: 12
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 13
@@ -502,6 +502,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-12-02 23:39:22.977345327 +0000 UTC m=+2.224855768
+generated: 2024-12-09 23:39:55.482183089 +0000 UTC m=+1.824189570
 min_followers_required: 1
 total_user_count: 20
