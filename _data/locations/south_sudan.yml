@@ -14,7 +14,7 @@ users:
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 15
+    contributions: 17
     company: "Ram Talent co."
     organizations: ""
 
@@ -83,11 +83,11 @@ users:
     organizations: ""
 
   - rank: 11
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 12
@@ -107,11 +107,11 @@ users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -175,7 +175,7 @@ users_public_contributions:
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 30
+    contributions: 32
     company: "Ram Talent co."
     organizations: ""
 
@@ -204,11 +204,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -268,11 +268,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -337,7 +337,7 @@ private_users:
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 30
+    contributions: 32
     company: "Ram Talent co."
     organizations: ""
 
@@ -366,11 +366,11 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -430,11 +430,11 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 15
@@ -502,6 +502,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-12-23 23:49:53.421268203 +0000 UTC m=+2.324532031
+generated: 2024-12-30 23:40:20.444276921 +0000 UTC m=+2.007158880
 min_followers_required: 1
 total_user_count: 20
