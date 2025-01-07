@@ -43,6 +43,14 @@ users:
     organizations: ""
 
   - rank: 6
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 7
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -50,20 +58,12 @@ users:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 7
+  - rank: 8
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
     contributions: 0
     company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 8
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 9
@@ -83,11 +83,11 @@ users:
     organizations: ""
 
   - rank: 11
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 12
@@ -107,11 +107,11 @@ users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -204,27 +204,27 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 7
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 8
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 8
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 9
@@ -268,11 +268,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -366,27 +366,27 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 7
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 8
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 8
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 9
@@ -430,11 +430,11 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -502,6 +502,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2024-12-30 23:40:20.444276921 +0000 UTC m=+2.007158880
+generated: 2025-01-06 23:53:54.759235448 +0000 UTC m=+3.384556332
 min_followers_required: 1
 total_user_count: 20
