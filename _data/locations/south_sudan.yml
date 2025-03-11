@@ -107,19 +107,19 @@ users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 15
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 16
@@ -196,14 +196,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 4
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 5
     name: "AMAL South Sudan"
     login: "Amalsouthsudan23"
     avatarUrl: https://avatars.githubusercontent.com/u/129305284?u=579e5e870fd3a2470a97e98609390a383fa8dabb&v=4
@@ -211,7 +203,7 @@ users_public_contributions:
     company: "AMAL"
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "Mark Peter Edward Sangi "
     login: "mar603"
     avatarUrl: https://avatars.githubusercontent.com/u/200339892?u=fc5bdcaef1b4670f829ec85f387ad7e94f093a8b&v=4
@@ -219,12 +211,20 @@ users_public_contributions:
     company: "University of Juba South Sudan "
     organizations: ""
 
-  - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+  - rank: 6
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "Kampala university "
+    company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 7
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 8
@@ -276,19 +276,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
-    contributions: 0
-    company: "U,D,S revolutionary"
-    organizations: ""
-
-  - rank: 15
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 16
@@ -332,11 +332,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 21
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
-    company: "st.lawrence university"
+    company: ""
     organizations: ""
 
 private_users:
@@ -366,14 +366,6 @@ private_users:
     organizations: ""
 
   - rank: 4
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 5
     name: "AMAL South Sudan"
     login: "Amalsouthsudan23"
     avatarUrl: https://avatars.githubusercontent.com/u/129305284?u=579e5e870fd3a2470a97e98609390a383fa8dabb&v=4
@@ -381,7 +373,7 @@ private_users:
     company: "AMAL"
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "Mark Peter Edward Sangi "
     login: "mar603"
     avatarUrl: https://avatars.githubusercontent.com/u/200339892?u=fc5bdcaef1b4670f829ec85f387ad7e94f093a8b&v=4
@@ -389,12 +381,20 @@ private_users:
     company: "University of Juba South Sudan "
     organizations: ""
 
-  - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+  - rank: 6
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "Kampala university "
+    company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 7
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 8
@@ -446,19 +446,19 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
-    contributions: 0
-    company: "U,D,S revolutionary"
-    organizations: ""
-
-  - rank: 15
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 16
@@ -502,11 +502,11 @@ private_users:
     organizations: ""
 
   - rank: 21
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
-    company: "st.lawrence university"
+    company: ""
     organizations: ""
 
 organizations:
@@ -526,6 +526,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-03-03 23:25:35.239333786 +0000 UTC m=+2.367612558
+generated: 2025-03-10 23:41:18.948257558 +0000 UTC m=+2.241465668
 min_followers_required: 0
 total_user_count: 21
