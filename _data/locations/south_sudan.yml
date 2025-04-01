@@ -35,19 +35,19 @@ users:
     organizations: ""
 
   - rank: 5
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
-    contributions: 0
-    company: "U,D,S revolutionary"
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
     company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 6
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 7
@@ -83,19 +83,19 @@ users:
     organizations: ""
 
   - rank: 11
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 12
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 12
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 13
@@ -160,14 +160,6 @@ users:
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
-    organizations: ""
-
-  - rank: 21
-    name: "Mark Peter Edward Sangi "
-    login: "mar603"
-    avatarUrl: https://avatars.githubusercontent.com/u/200339892?u=fc5bdcaef1b4670f829ec85f387ad7e94f093a8b&v=4
-    contributions: 0
-    company: "University of Juba South Sudan "
     organizations: ""
 users_public_contributions:
 
@@ -199,19 +191,11 @@ users_public_contributions:
     name: "AMAL South Sudan"
     login: "Amalsouthsudan23"
     avatarUrl: https://avatars.githubusercontent.com/u/129305284?u=579e5e870fd3a2470a97e98609390a383fa8dabb&v=4
-    contributions: 1
+    contributions: 0
     company: "AMAL"
     organizations: ""
 
   - rank: 5
-    name: "Mark Peter Edward Sangi "
-    login: "mar603"
-    avatarUrl: https://avatars.githubusercontent.com/u/200339892?u=fc5bdcaef1b4670f829ec85f387ad7e94f093a8b&v=4
-    contributions: 1
-    company: "University of Juba South Sudan "
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -219,12 +203,20 @@ users_public_contributions:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 7
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 8
@@ -244,14 +236,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 10
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 11
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -259,12 +243,20 @@ users_public_contributions:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 12
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 13
@@ -329,14 +321,6 @@ users_public_contributions:
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
-    organizations: ""
-
-  - rank: 21
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
 private_users:
@@ -369,19 +353,11 @@ private_users:
     name: "AMAL South Sudan"
     login: "Amalsouthsudan23"
     avatarUrl: https://avatars.githubusercontent.com/u/129305284?u=579e5e870fd3a2470a97e98609390a383fa8dabb&v=4
-    contributions: 1
+    contributions: 0
     company: "AMAL"
     organizations: ""
 
   - rank: 5
-    name: "Mark Peter Edward Sangi "
-    login: "mar603"
-    avatarUrl: https://avatars.githubusercontent.com/u/200339892?u=fc5bdcaef1b4670f829ec85f387ad7e94f093a8b&v=4
-    contributions: 1
-    company: "University of Juba South Sudan "
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -389,12 +365,20 @@ private_users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 7
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 8
@@ -414,14 +398,6 @@ private_users:
     organizations: ""
 
   - rank: 10
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 11
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -429,12 +405,20 @@ private_users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 12
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 13
@@ -501,14 +485,6 @@ private_users:
     company: "Media news company "
     organizations: ""
 
-  - rank: 21
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
 organizations:
 
   - rank: 1
@@ -526,6 +502,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-03-24 23:51:00.435673342 +0000 UTC m=+2.478767726
-min_followers_required: 0
-total_user_count: 21
+generated: 2025-03-31 23:16:55.365590818 +0000 UTC m=+1.868436448
+min_followers_required: 1
+total_user_count: 20
