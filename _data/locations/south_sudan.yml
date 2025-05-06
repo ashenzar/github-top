@@ -19,19 +19,19 @@ users:
     organizations: ""
 
   - rank: 3
+    name: "ENOCK JUMA"
+    login: "BoqinReese"
+    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 4
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 3
     company: "@konetahub "
-    organizations: ""
-
-  - rank: 4
-    name: "ENOCK JUMA"
-    login: "BoqinReese"
-    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 2
-    company: ""
     organizations: ""
 
   - rank: 5
@@ -115,19 +115,19 @@ users:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 16
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 16
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 17
@@ -155,19 +155,19 @@ users:
     organizations: ""
 
   - rank: 20
-    name: "TMK"
-    login: "Abrahammaruor"
-    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
-    contributions: 0
-    company: "Gpoc"
-    organizations: ""
-
-  - rank: 21
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
+    organizations: ""
+
+  - rank: 21
+    name: "TMK"
+    login: "Abrahammaruor"
+    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
+    contributions: 0
+    company: "Gpoc"
     organizations: ""
 users_public_contributions:
 
@@ -191,7 +191,7 @@ users_public_contributions:
     name: "ENOCK JUMA"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 4
+    contributions: 8
     company: ""
     organizations: ""
 
@@ -284,19 +284,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 16
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 16
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 17
@@ -324,19 +324,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 20
-    name: "TMK"
-    login: "Abrahammaruor"
-    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
-    contributions: 0
-    company: "Gpoc"
-    organizations: ""
-
-  - rank: 21
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
+    organizations: ""
+
+  - rank: 21
+    name: "TMK"
+    login: "Abrahammaruor"
+    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
+    contributions: 0
+    company: "Gpoc"
     organizations: ""
 
 private_users:
@@ -361,7 +361,7 @@ private_users:
     name: "ENOCK JUMA"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 4
+    contributions: 8
     company: ""
     organizations: ""
 
@@ -454,19 +454,19 @@ private_users:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 16
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 16
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 17
@@ -494,19 +494,19 @@ private_users:
     organizations: ""
 
   - rank: 20
-    name: "TMK"
-    login: "Abrahammaruor"
-    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
-    contributions: 0
-    company: "Gpoc"
-    organizations: ""
-
-  - rank: 21
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
+    organizations: ""
+
+  - rank: 21
+    name: "TMK"
+    login: "Abrahammaruor"
+    avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
+    contributions: 0
+    company: "Gpoc"
     organizations: ""
 
 organizations:
@@ -526,6 +526,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-04-28 23:46:08.745448037 +0000 UTC m=+2.300562292
+generated: 2025-05-05 23:54:58.700380721 +0000 UTC m=+2.084536957
 min_followers_required: 2
 total_user_count: 21
