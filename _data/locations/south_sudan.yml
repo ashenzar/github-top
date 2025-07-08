@@ -11,6 +11,14 @@ users:
     organizations: ""
 
   - rank: 2
+    name: "Garang Makuach Deng"
+    login: "garango123"
+    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
+    contributions: 20
+    company: "University of the people "
+    organizations: ""
+
+  - rank: 3
     name: "Juma"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
@@ -18,23 +26,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 3
-    name: "Garang Makuach Deng"
-    login: "garango123"
-    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 8
-    company: "University of the people "
-    organizations: ""
-
   - rank: 4
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 6
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 5
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
@@ -42,7 +34,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -50,12 +42,20 @@ users:
     company: "@konetahub "
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
     contributions: 2
     company: "SAMNAV SOLUTIONS"
+    organizations: ""
+
+  - rank: 7
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 2
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 8
@@ -212,6 +212,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 2
+    name: "Garang Makuach Deng"
+    login: "garango123"
+    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
+    contributions: 24
+    company: "University of the people "
+    organizations: ""
+
+  - rank: 3
     name: "Juma"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
@@ -219,31 +227,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 3
-    name: "Garang Makuach Deng"
-    login: "garango123"
-    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 11
-    company: "University of the people "
-    organizations: ""
-
   - rank: 4
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 9
+    contributions: 8
     company: ""
     organizations: ""
 
   - rank: 5
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 8
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 6
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
@@ -251,12 +243,20 @@ users_public_contributions:
     company: "SAMNAV SOLUTIONS"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 4
     company: "@konetahub "
+    organizations: ""
+
+  - rank: 7
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 3
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 8
@@ -414,6 +414,14 @@ private_users:
     organizations: ""
 
   - rank: 2
+    name: "Garang Makuach Deng"
+    login: "garango123"
+    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
+    contributions: 24
+    company: "University of the people "
+    organizations: ""
+
+  - rank: 3
     name: "Juma"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
@@ -421,31 +429,15 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 3
+  - rank: 4
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 21
+    contributions: 20
     company: ""
     organizations: ""
 
-  - rank: 4
-    name: "Garang Makuach Deng"
-    login: "garango123"
-    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 11
-    company: "University of the people "
-    organizations: ""
-
   - rank: 5
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 8
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 6
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
@@ -453,12 +445,20 @@ private_users:
     company: "SAMNAV SOLUTIONS"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 4
     company: "@konetahub "
+    organizations: ""
+
+  - rank: 7
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 3
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 8
@@ -622,6 +622,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-06-24 00:08:49.891760598 +0000 UTC m=+2.496888951
+generated: 2025-07-07 23:47:31.057544605 +0000 UTC m=+2.824766466
 min_followers_required: 0
 total_user_count: 25
