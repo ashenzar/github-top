@@ -22,7 +22,7 @@ users:
     name: "Juma"
     login: "BoqinReese"
     avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 13
+    contributions: 16
     company: ""
     organizations: ""
 
@@ -115,19 +115,19 @@ users:
     organizations: ""
 
   - rank: 15
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 16
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 16
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 17
@@ -212,19 +212,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 2
+    name: "Juma"
+    login: "BoqinReese"
+    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
+    contributions: 26
+    company: ""
+    organizations: ""
+
+  - rank: 3
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
     contributions: 24
     company: "University of the people "
-    organizations: ""
-
-  - rank: 3
-    name: "Juma"
-    login: "BoqinReese"
-    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 22
-    company: ""
     organizations: ""
 
   - rank: 4
@@ -316,19 +316,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 15
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 16
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 16
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 17
@@ -414,19 +414,19 @@ private_users:
     organizations: ""
 
   - rank: 2
+    name: "Juma"
+    login: "BoqinReese"
+    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
+    contributions: 26
+    company: ""
+    organizations: ""
+
+  - rank: 3
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
     contributions: 24
     company: "University of the people "
-    organizations: ""
-
-  - rank: 3
-    name: "Juma"
-    login: "BoqinReese"
-    avatarUrl: https://avatars.githubusercontent.com/u/40110521?u=fca08c72bc2b341d55c4e2d480a9c9cef8c92813&v=4
-    contributions: 22
-    company: ""
     organizations: ""
 
   - rank: 4
@@ -518,19 +518,19 @@ private_users:
     organizations: ""
 
   - rank: 15
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 16
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 16
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 17
@@ -622,6 +622,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-07-14 23:45:30.099346429 +0000 UTC m=+2.639435839
+generated: 2025-07-22 00:12:27.39390987 +0000 UTC m=+2.784136253
 min_followers_required: 0
 total_user_count: 25
