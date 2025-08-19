@@ -43,14 +43,6 @@ users:
     organizations: ""
 
   - rank: 6
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 3
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 7
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
@@ -58,12 +50,20 @@ users:
     company: "SAMNAV SOLUTIONS"
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 2
     company: "Ram Talent co."
+    organizations: ""
+
+  - rank: 8
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 2
+    company: "@konetahub "
     organizations: ""
 
   - rank: 9
@@ -75,19 +75,19 @@ users:
     organizations: ""
 
   - rank: 10
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 11
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 1
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 11
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 1
+    company: ""
     organizations: ""
 
   - rank: 12
@@ -284,14 +284,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 4
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 8
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
@@ -299,7 +291,7 @@ users_public_contributions:
     company: "SAMNAV SOLUTIONS"
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
@@ -307,12 +299,20 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 10
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 3
+    company: "@konetahub "
     organizations: ""
 
   - rank: 11
@@ -518,14 +518,6 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 4
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 8
     name: "Santino Anei Malong"
     login: "santinoaneimalong"
     avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
@@ -533,7 +525,7 @@ private_users:
     company: "SAMNAV SOLUTIONS"
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
@@ -541,12 +533,20 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 10
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 3
+    company: "@konetahub "
     organizations: ""
 
   - rank: 11
@@ -718,6 +718,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-08-12 00:31:47.898675371 +0000 UTC m=+3.390195833
+generated: 2025-08-19 00:51:55.443963867 +0000 UTC m=+4.755418516
 min_followers_required: 0
 total_user_count: 29
