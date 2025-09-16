@@ -14,7 +14,7 @@ users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 20
+    contributions: 17
     company: "University of the people "
     organizations: ""
 
@@ -247,7 +247,7 @@ users_public_contributions:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 24
+    contributions: 20
     company: "University of the people "
     organizations: ""
 
@@ -284,19 +284,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 8
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 8
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 3
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -478,19 +478,19 @@ private_users:
     organizations: ""
 
   - rank: 2
-    name: "Garang Makuach Deng"
-    login: "garango123"
-    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 24
-    company: "University of the people "
-    organizations: ""
-
-  - rank: 3
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
     contributions: 20
     company: ""
+    organizations: ""
+
+  - rank: 3
+    name: "Garang Makuach Deng"
+    login: "garango123"
+    avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
+    contributions: 20
+    company: "University of the people "
     organizations: ""
 
   - rank: 4
@@ -518,19 +518,19 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 8
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 8
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 3
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -718,6 +718,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-09-09 00:55:03.820403464 +0000 UTC m=+3.208412861
+generated: 2025-09-16 00:45:53.616718316 +0000 UTC m=+3.868567461
 min_followers_required: 0
 total_user_count: 29
