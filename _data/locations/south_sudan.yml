@@ -19,19 +19,19 @@ users:
     organizations: ""
 
   - rank: 3
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 4
-    company: "United Nations Mission in South Sudan"
-    organizations: ""
-
-  - rank: 4
     name: "Oryem Joseph Peter Achire"
     login: "Oryem75"
     avatarUrl: https://avatars.githubusercontent.com/u/141554390?u=1c89e4b7a33bc54966e79b87cf7709c6c8a56b87&v=4
     contributions: 3
     company: "ICRC"
+    organizations: ""
+
+  - rank: 4
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 3
+    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 5
@@ -276,19 +276,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 4
-    company: "United Nations Mission in South Sudan"
-    organizations: ""
-
-  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 7
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 3
+    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 8
@@ -510,19 +510,19 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 4
-    company: "United Nations Mission in South Sudan"
-    organizations: ""
-
-  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 3
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 7
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 3
+    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 8
@@ -718,6 +718,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-09-23 01:22:29.522176701 +0000 UTC m=+4.699824152
+generated: 2025-09-30 01:07:11.160182942 +0000 UTC m=+4.406388868
 min_followers_required: 0
 total_user_count: 29
