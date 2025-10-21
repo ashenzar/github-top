@@ -14,7 +14,7 @@ users:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 4
+    contributions: 7
     company: ""
     organizations: ""
 
@@ -171,19 +171,19 @@ users:
     organizations: ""
 
   - rank: 22
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
-    contributions: 0
-    company: "st.lawrence university"
-    organizations: ""
-
-  - rank: 23
     name: "Omol"
     login: "Andrew-1992"
     avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
     contributions: 0
     company: "Alole Tech Solutions"
+    organizations: ""
+
+  - rank: 23
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    contributions: 0
+    company: "st.lawrence university"
     organizations: ""
 
   - rank: 24
@@ -255,7 +255,7 @@ users_public_contributions:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 8
+    contributions: 12
     company: ""
     organizations: ""
 
@@ -284,14 +284,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 3
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -299,20 +291,28 @@ users_public_contributions:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 8
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+  - rank: 7
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 3
-    company: "@konetahub "
+    company: "Ram Talent co."
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 9
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 3
+    company: "@konetahub "
     organizations: ""
 
   - rank: 10
@@ -486,19 +486,19 @@ users_public_contributions:
 private_users:
 
   - rank: 1
+    name: "EmmoDev"
+    login: "kainerd"
+    avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 2
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
     contributions: 21
     company: "University of the people "
-    organizations: ""
-
-  - rank: 2
-    name: "EmmoDev"
-    login: "kainerd"
-    avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 21
-    company: ""
     organizations: ""
 
   - rank: 3
@@ -526,14 +526,6 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 3
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -541,20 +533,28 @@ private_users:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 8
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+  - rank: 7
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 3
-    company: "@konetahub "
+    company: "Ram Talent co."
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 9
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 3
+    company: "@konetahub "
     organizations: ""
 
   - rank: 10
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-10-14 00:47:59.871642009 +0000 UTC m=+4.006696542
+generated: 2025-10-21 01:11:18.409862576 +0000 UTC m=+3.591466708
 min_followers_required: 0
 total_user_count: 30
