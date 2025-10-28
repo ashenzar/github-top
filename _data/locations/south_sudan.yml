@@ -91,19 +91,19 @@ users:
     organizations: ""
 
   - rank: 12
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
-    contributions: 0
-    company: "Agricola Interest national non governmental organizations"
-    organizations: ""
-
-  - rank: 13
     name: "Marko Makuach Garang Wol "
     login: "GarangWol"
     avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 13
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 14
@@ -364,11 +364,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 16
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
-    company: ""
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 17
@@ -412,11 +412,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 22
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: ""
     organizations: ""
 
   - rank: 23
@@ -606,11 +606,11 @@ private_users:
     organizations: ""
 
   - rank: 16
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
-    company: ""
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 17
@@ -654,11 +654,11 @@ private_users:
     organizations: ""
 
   - rank: 22
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: ""
     organizations: ""
 
   - rank: 23
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-10-21 01:11:18.409862576 +0000 UTC m=+3.591466708
+generated: 2025-10-28 00:59:46.09831705 +0000 UTC m=+3.125380474
 min_followers_required: 0
 total_user_count: 30
