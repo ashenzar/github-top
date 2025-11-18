@@ -211,19 +211,19 @@ users:
     organizations: ""
 
   - rank: 27
-    name: "NEXT GENERATION SOLUTIONS "
-    login: "next-gen-solutions-coder"
-    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
-    contributions: 0
-    company: "Next Generation Solutions"
-    organizations: ""
-
-  - rank: 28
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
     contributions: 0
     company: "UniPod South Sudan"
+    organizations: ""
+
+  - rank: 28
+    name: "NEXT GENERATION SOLUTIONS "
+    login: "next-gen-solutions-coder"
+    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
+    contributions: 0
+    company: "Next Generation Solutions"
     organizations: ""
 
   - rank: 29
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-11-11 01:28:35.880530968 +0000 UTC m=+3.834382870
+generated: 2025-11-18 01:21:12.172923673 +0000 UTC m=+3.917986934
 min_followers_required: 0
 total_user_count: 30
