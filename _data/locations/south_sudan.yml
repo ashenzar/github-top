@@ -6,7 +6,7 @@ users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 22
+    contributions: 23
     company: "University of the people "
     organizations: ""
 
@@ -75,19 +75,19 @@ users:
     organizations: ""
 
   - rank: 10
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    contributions: 1
+    company: "Alole Tech Solutions"
+    organizations: ""
+
+  - rank: 11
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
-    organizations: ""
-
-  - rank: 11
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 12
@@ -123,11 +123,11 @@ users:
     organizations: ""
 
   - rank: 16
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
     contributions: 0
-    company: "SSICI Project"
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 17
@@ -171,11 +171,11 @@ users:
     organizations: ""
 
   - rank: 22
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
-    company: "Alole Tech Solutions"
+    company: "SSICI Project"
     organizations: ""
 
   - rank: 23
@@ -247,7 +247,7 @@ users_public_contributions:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 26
+    contributions: 28
     company: "University of the people "
     organizations: ""
 
@@ -300,6 +300,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 8
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    contributions: 3
+    company: "Alole Tech Solutions"
+    organizations: ""
+
+  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -307,7 +315,7 @@ users_public_contributions:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 9
+  - rank: 10
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
@@ -315,20 +323,12 @@ users_public_contributions:
     company: "UniPod South Sudan"
     organizations: ""
 
-  - rank: 10
+  - rank: 11
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 2
     company: "@konetahub "
-    organizations: ""
-
-  - rank: 11
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 2
-    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 12
@@ -489,7 +489,7 @@ private_users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 26
+    contributions: 28
     company: "University of the people "
     organizations: ""
 
@@ -542,6 +542,14 @@ private_users:
     organizations: ""
 
   - rank: 8
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    contributions: 3
+    company: "Alole Tech Solutions"
+    organizations: ""
+
+  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -549,7 +557,7 @@ private_users:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 9
+  - rank: 10
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
@@ -557,20 +565,12 @@ private_users:
     company: "UniPod South Sudan"
     organizations: ""
 
-  - rank: 10
+  - rank: 11
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 2
     company: "@konetahub "
-    organizations: ""
-
-  - rank: 11
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 2
-    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 12
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-12-09 01:36:22.986497263 +0000 UTC m=+4.474670716
+generated: 2025-12-16 01:51:43.818416552 +0000 UTC m=+3.658979085
 min_followers_required: 0
 total_user_count: 30
