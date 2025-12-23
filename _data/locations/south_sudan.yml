@@ -67,14 +67,6 @@ users:
     organizations: ""
 
   - rank: 9
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 1
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 10
     name: "Omol"
     login: "Andrew-1992"
     avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
@@ -82,12 +74,20 @@ users:
     company: "Alole Tech Solutions"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 11
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 12
@@ -107,14 +107,6 @@ users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 15
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -122,12 +114,20 @@ users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 16
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Codemate Tech "
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
     organizations: ""
 
   - rank: 17
@@ -171,11 +171,11 @@ users:
     organizations: ""
 
   - rank: 22
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 0
-    company: "SSICI Project"
+    company: "@konetahub "
     organizations: ""
 
   - rank: 23
@@ -219,19 +219,19 @@ users:
     organizations: ""
 
   - rank: 28
-    name: "NEXT GENERATION SOLUTIONS "
-    login: "next-gen-solutions-coder"
-    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
-    contributions: 0
-    company: "Next Generation Solutions"
-    organizations: ""
-
-  - rank: 29
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
     contributions: 0
     company: "UniPod South Sudan"
+    organizations: ""
+
+  - rank: 29
+    name: "NEXT GENERATION SOLUTIONS "
+    login: "next-gen-solutions-coder"
+    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
+    contributions: 0
+    company: "Next Generation Solutions"
     organizations: ""
 
   - rank: 30
@@ -284,19 +284,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 7
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 3
     company: "Ram Talent co."
+    organizations: ""
+
+  - rank: 7
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 3
+    company: ""
     organizations: ""
 
   - rank: 8
@@ -324,14 +324,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 11
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 2
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 12
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
@@ -339,7 +331,7 @@ users_public_contributions:
     company: "Next Generation Solutions"
     organizations: ""
 
-  - rank: 13
+  - rank: 12
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
@@ -347,15 +339,15 @@ users_public_contributions:
     company: "charly rio "
     organizations: ""
 
-  - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+  - rank: 13
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 15
+  - rank: 14
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -363,12 +355,20 @@ users_public_contributions:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 16
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 17
@@ -412,14 +412,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 22
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 23
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -427,12 +419,20 @@ users_public_contributions:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 24
+  - rank: 23
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 24
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 25
@@ -526,19 +526,19 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 7
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
     contributions: 3
     company: "Ram Talent co."
+    organizations: ""
+
+  - rank: 7
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 3
+    company: ""
     organizations: ""
 
   - rank: 8
@@ -566,14 +566,6 @@ private_users:
     organizations: ""
 
   - rank: 11
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 2
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 12
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
@@ -581,7 +573,7 @@ private_users:
     company: "Next Generation Solutions"
     organizations: ""
 
-  - rank: 13
+  - rank: 12
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
@@ -589,15 +581,15 @@ private_users:
     company: "charly rio "
     organizations: ""
 
-  - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+  - rank: 13
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 15
+  - rank: 14
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -605,12 +597,20 @@ private_users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 16
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Agricola Interest national non governmental organizations"
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 17
@@ -654,14 +654,6 @@ private_users:
     organizations: ""
 
   - rank: 22
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 23
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -669,12 +661,20 @@ private_users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 24
+  - rank: 23
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
     contributions: 0
     company: "SSICI Project"
+    organizations: ""
+
+  - rank: 24
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 25
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-12-16 01:51:43.818416552 +0000 UTC m=+3.658979085
+generated: 2025-12-23 01:18:11.569174726 +0000 UTC m=+4.346672379
 min_followers_required: 0
 total_user_count: 30
