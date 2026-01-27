@@ -43,14 +43,6 @@ users:
     organizations: ""
 
   - rank: 6
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 7
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -58,12 +50,20 @@ users:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Omol"
     login: "Andrew-1992"
     avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
     contributions: 1
     company: "Alole Tech Solutions"
+    organizations: ""
+
+  - rank: 8
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 1
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -284,19 +284,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 3
-    company: "Alole Tech Solutions"
-    organizations: ""
-
-  - rank: 7
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 7
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    contributions: 3
+    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 8
@@ -526,19 +526,19 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 3
-    company: "Alole Tech Solutions"
-    organizations: ""
-
-  - rank: 7
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 7
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
+    contributions: 3
+    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 8
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-01-20 02:49:35.49464281 +0000 UTC m=+5.102733719
+generated: 2026-01-27 02:30:01.88432768 +0000 UTC m=+3.832089291
 min_followers_required: 0
 total_user_count: 30
