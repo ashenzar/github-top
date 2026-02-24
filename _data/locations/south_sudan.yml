@@ -139,19 +139,19 @@ users:
     organizations: ""
 
   - rank: 18
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 0
-    company: "United Nations Mission in South Sudan"
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 0
+    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 20
@@ -372,19 +372,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 18
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 0
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 20
@@ -606,19 +606,19 @@ private_users:
     organizations: ""
 
   - rank: 18
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 0
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 20
@@ -718,6 +718,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-02-17 01:51:09.919190949 +0000 UTC m=+3.557071904
+generated: 2026-02-24 01:52:21.823667426 +0000 UTC m=+3.493872254
 min_followers_required: 0
 total_user_count: 29
