@@ -99,19 +99,19 @@ users:
     organizations: ""
 
   - rank: 13
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
-    contributions: 0
-    company: "Agricola Interest national non governmental organizations"
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 15
@@ -332,19 +332,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 13
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
-    contributions: 0
-    company: "Agricola Interest national non governmental organizations"
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 15
@@ -566,19 +566,19 @@ private_users:
     organizations: ""
 
   - rank: 13
-    name: "Taban Denis Tabbi"
-    login: "Tabandenis"
-    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
-    contributions: 0
-    company: "Agricola Interest national non governmental organizations"
-    organizations: ""
-
-  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 14
+    name: "Taban Denis Tabbi"
+    login: "Tabandenis"
+    avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
+    contributions: 0
+    company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
   - rank: 15
@@ -718,6 +718,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-03-10 01:36:04.468678762 +0000 UTC m=+3.576018848
+generated: 2026-03-17 02:53:03.419494834 +0000 UTC m=+3.419724981
 min_followers_required: 0
 total_user_count: 29
