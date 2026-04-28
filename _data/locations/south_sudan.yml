@@ -22,7 +22,7 @@ users:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 10
+    contributions: 8
     company: ""
     organizations: ""
 
@@ -263,7 +263,7 @@ users_public_contributions:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 17
+    contributions: 13
     company: ""
     organizations: ""
 
@@ -505,7 +505,7 @@ private_users:
     name: "EmmoDev"
     login: "kainerd"
     avatarUrl: https://avatars.githubusercontent.com/u/173632374?u=42a62cb6c59ff66707454966f6f09f16fb2f1b3f&v=4
-    contributions: 30
+    contributions: 14
     company: ""
     organizations: ""
 
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-04-21 02:47:11.350776912 +0000 UTC m=+3.429142593
+generated: 2026-04-28 02:27:04.994973986 +0000 UTC m=+4.543254242
 min_followers_required: 0
 total_user_count: 30
