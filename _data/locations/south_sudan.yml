@@ -14,8 +14,8 @@ users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 33
-    company: "University of the people "
+    contributions: 76
+    company: "University of the People "
     organizations: ""
 
   - rank: 3
@@ -51,19 +51,19 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 1
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 8
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 1
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 8
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 1
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 9
@@ -75,46 +75,6 @@ users:
     organizations: ""
 
   - rank: 10
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 11
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
-    contributions: 0
-    company: "SSICI Project"
-    organizations: ""
-
-  - rank: 12
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 13
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 15
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -122,7 +82,7 @@ users:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 16
+  - rank: 11
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -130,7 +90,55 @@ users:
     company: "@konetahub "
     organizations: ""
 
+  - rank: 12
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
+    organizations: ""
+
+  - rank: 13
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 0
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 14
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    contributions: 0
+    company: "st.lawrence university"
+    organizations: ""
+
   - rank: 17
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 18
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
@@ -138,20 +146,12 @@ users:
     company: "charly rio "
     organizations: ""
 
-  - rank: 18
+  - rank: 19
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 19
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
-    contributions: 0
-    company: "st.lawrence university"
     organizations: ""
 
   - rank: 20
@@ -219,19 +219,19 @@ users:
     organizations: ""
 
   - rank: 28
-    name: "NEXT GENERATION SOLUTIONS "
-    login: "next-gen-solutions-coder"
-    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
-    contributions: 0
-    company: "Next Generation Solutions"
-    organizations: ""
-
-  - rank: 29
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
     contributions: 0
     company: "UniPod South Sudan"
+    organizations: ""
+
+  - rank: 29
+    name: "NEXT GENERATION SOLUTIONS "
+    login: "next-gen-solutions-coder"
+    avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
+    contributions: 0
+    company: "Next Generation Solutions"
     organizations: ""
 
   - rank: 30
@@ -255,8 +255,8 @@ users_public_contributions:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 40
-    company: "University of the people "
+    contributions: 83
+    company: "University of the People "
     organizations: ""
 
   - rank: 3
@@ -308,19 +308,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 9
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 1
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 10
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
     contributions: 1
     company: "UniPod South Sudan"
+    organizations: ""
+
+  - rank: 10
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 1
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 11
@@ -332,30 +332,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 12
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 13
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 15
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -363,7 +339,7 @@ users_public_contributions:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 16
+  - rank: 13
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -371,7 +347,39 @@ users_public_contributions:
     company: "Codemate Tech "
     organizations: ""
 
+  - rank: 14
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
+    organizations: ""
+
   - rank: 17
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 18
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
@@ -379,20 +387,12 @@ users_public_contributions:
     company: "charly rio "
     organizations: ""
 
-  - rank: 18
+  - rank: 19
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 19
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
-    contributions: 0
-    company: "SSICI Project"
     organizations: ""
 
   - rank: 20
@@ -497,8 +497,8 @@ private_users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 40
-    company: "University of the people "
+    contributions: 83
+    company: "University of the People "
     organizations: ""
 
   - rank: 3
@@ -550,19 +550,19 @@ private_users:
     organizations: ""
 
   - rank: 9
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 1
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 10
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
     contributions: 1
     company: "UniPod South Sudan"
+    organizations: ""
+
+  - rank: 10
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 1
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 11
@@ -574,30 +574,6 @@ private_users:
     organizations: ""
 
   - rank: 12
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 13
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 15
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -605,7 +581,7 @@ private_users:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 16
+  - rank: 13
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -613,7 +589,39 @@ private_users:
     company: "Codemate Tech "
     organizations: ""
 
+  - rank: 14
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 16
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
+    organizations: ""
+
   - rank: 17
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 18
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
@@ -621,20 +629,12 @@ private_users:
     company: "charly rio "
     organizations: ""
 
-  - rank: 18
+  - rank: 19
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 0
     company: "GAN MEDIA & TECH COMPANY LIMITED"
-    organizations: ""
-
-  - rank: 19
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
-    contributions: 0
-    company: "SSICI Project"
     organizations: ""
 
   - rank: 20
@@ -742,6 +742,6 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-05-19 03:47:22.607563165 +0000 UTC m=+4.659339722
+generated: 2026-05-26 02:55:46.551157608 +0000 UTC m=+4.655420643
 min_followers_required: 0
 total_user_count: 30
